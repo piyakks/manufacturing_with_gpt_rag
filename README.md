@@ -5,5 +5,5 @@
 
 #기존 사전 프롬프트 기반 LLM 작업 지원 개선버전
 
-<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/42a497fd-a770-47aa-b1d1-c11dea872e90" />
+<img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/42a497fd-a770-47aa-b1d1-c11dea872e90" />
 # 연구 목표
