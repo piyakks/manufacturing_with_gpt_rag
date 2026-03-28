@@ -2,6 +2,7 @@
 
 # 연구 목표
 해당 링크 참조:https://github.com/piyakks/manufacturing_with_gpt
+
 기존 사전 프롬프트 기반 LLM 작업 지원 개선버전
 # 변경점
 기존 사전 프롬프팅 기법의 한계점:
