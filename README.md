@@ -21,5 +21,5 @@
 
 4.LLM 기반 응답 생성
 # 전체 구조
-<img width="1500" height="1000" alt="image" src="https://github.com/user-attachments/assets/42a497fd-a770-47aa-b1d1-c11dea872e90" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/42a497fd-a770-47aa-b1d1-c11dea872e90" />
 
